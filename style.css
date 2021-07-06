@@ -69,7 +69,7 @@ h1, h2, h3, .nav-menu {
     display: inline-block;
     text-decoration: none;
     color: white;
-    padding: 10px 30px;
+    padding: 20px 30px;
     font-weight: 700;
     background-image: linear-gradient(orange, tomato);
     border-radius: 20px;
