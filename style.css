@@ -1,0 +1,111 @@
+        /* Basic Setup  */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    background-color: #fff;
+    color: #555;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 300;
+    font-size: 20px;
+    margin: 0;
+}
+
+h1, h2, h3, .nav-menu {
+    font-family: 'Inknut Antiqua', serif;
+    
+}
+
+
+.orange-color {
+    color: orange;
+}
+
+          /* Navigation Setup */
+
+
+.nav-menu {
+    list-style: none;
+    margin-top: 40px;
+    text-align: center;
+    
+}
+
+.nav-menu li {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.nav-menu li a {
+    padding: 8px 0;
+    color: #000;
+    text-decoration: none;
+    font-size: 90%;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.2s;
+}
+  
+           /* Top Banner Section */
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width {
+    width: 50%;
+    padding: 2%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    padding: 10px 30px;
+    font-weight: 700;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 20px;
+    margin-top: 60px;
+}
+
+
+       /* About Me Section */
+
+.about-me {
+    background-image: url(img/bg2.png);
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    width: auto;
+    
+    
+    
+    
+}      
+
+.jane-img {
+    
+    height: 75%; 
+    
+}
+
+.right {
+    margin-right: 10%;
+}
+
+                /* Recipies styles start here */
+
+.width-3 {
+    width: 30%;
+    padding: 2%;
+}                
+
+
+
