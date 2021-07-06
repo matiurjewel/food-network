@@ -134,6 +134,11 @@ h1, h2, h3, .nav-menu {
     margin-left: 10%;
 }
 
+.recipe-para {
+    margin-left: 10%;
+    padding: 10px 0 20px 0;
+}
+
             /* Followers styles  */
 
 .followers {
